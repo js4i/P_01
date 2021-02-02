@@ -7,15 +7,15 @@
 ├── P_01
 |   ├── app
 |   |   ├── config
-|   |   |  ├── settings.py
-|   |   |  ├── security.py
+|   |   |   ├── settings.py
+|   |   |   ├── security.py
 |   |   ├── models
 |   |   ├── schemas
 |   |   ├── services
 |   |   ├── views
 |   |   |   ├── v1
-|   |   |   |   ├── endpoints
-|   |   |   |         ├── users.py
+|   |   |   |    ├── endpoints
+|   |   |   |    |     ├── users.py
 |   |   |   |    ├── api.py          
 |   |   ├── db.py
 |   |   ├── main.py
