@@ -9,14 +9,24 @@
 |   |   ├── config
 |   |   |   ├── settings.py
 |   |   |   ├── security.py
+|   |   |   └── ...
+|   |   |
 |   |   ├── models
+|   |   |   └── ...
+|   |   |
 |   |   ├── schemas
+|   |   |   └──
+|   |   |
 |   |   ├── services
+|   |   |   └──
+|   |   |
 |   |   ├── views
 |   |   |   ├── v1
 |   |   |   |    ├── endpoints
 |   |   |   |    |     ├── users.py
-|   |   |   |    ├── api.py          
+|   |   |   |    ├── api.py
+|   |   |   └── deps.py
+|   |   |          
 |   |   ├── db.py
 |   |   ├── main.py
 |   ├── tests
