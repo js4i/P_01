@@ -11,7 +11,10 @@
 |   |   |   ├── security.py
 |   |   |   └── ...
 |   |   |
-|   |   ├── models
+|   |   ├── entity
+|   |   |   └── ...
+|   |   |
+|   |   ├── repository
 |   |   |   └── ...
 |   |   |
 |   |   ├── schemas
