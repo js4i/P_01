@@ -4,7 +4,7 @@ FROM tiangolo/uvicorn-gunicorn-fastapi:python3.8
 ENV PYTHONWRITEBYTECODE 1
 ENV PYTHONBUFFERED 1
 
-ENV DATABASE_URL 'postgresql://postgres:'
+# ENV DATABASE_URL 'postgresql://postgres:'
 
 # set working directory
 WORKDIR /app

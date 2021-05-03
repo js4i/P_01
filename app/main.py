@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.views.v1 import api
+from app.routes.v1 import api
 from app.config.settings import settings
 
 
